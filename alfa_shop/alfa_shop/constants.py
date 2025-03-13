@@ -1,0 +1,2 @@
+NAME_LEN = 255
+SLUG_LEN = 255

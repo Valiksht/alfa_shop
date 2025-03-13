@@ -1,0 +1,14 @@
+asgiref==3.8.1
+Django==3.2.16
+django-filter==23.1
+djangorestframework==3.12.4
+pytz==2025.1
+sqlparse==0.5.3
+typing_extensions==4.12.2
+PyJWT==2.1.0
+pytest==8.3.5
+pytest-django==4.10.0
+djoser==2.1.0
+django-import-export
+Pillow==9.0.0
+drf-yasg==1.21.9

@@ -1,0 +1,109 @@
+[
+    {
+        "model": "api.maincategiry",
+        "pk": 1,
+        "fields": {
+            "name": "Игрушки",
+            "slug": "tiys",
+            "image": "/categiry/temp.jpeg"
+        }
+    },
+    {
+        "model": "api.maincategiry",
+        "pk": 2,
+        "fields": {
+            "name": "Игрушки2",
+            "slug": "tiys",
+            "image": "/categiry/temp_n2n46sQ.jpeg"
+        }
+    },
+    {
+        "model": "api.maincategiry",
+        "pk": 3,
+        "fields": {
+            "name": "Игрушки 3",
+            "slug": "zametka",
+            "image": "/categiry/%D0%9A%D0%BE%D1%80%D0%BF%D0%BE%D1%80%D0%B0%D1%82.jpg"
+        }
+    },
+    {
+        "model": "api.lastcategiry",
+        "pk": 1,
+        "fields": {
+            "name": "Машинки",
+            "slug": "cars",
+            "image": "/categiry/temp_xHBdykJ.jpeg",
+            "main_categiry": 1
+        }
+    },
+    {
+        "model": "api.lastcategiry",
+        "pk": 2,
+        "fields": {
+            "name": "Машинки2",
+            "slug": "cars",
+            "image": "/categiry/temp_tW1f4V0.jpeg",
+            "main_categiry": 2
+        }
+    },
+    {
+        "model": "api.lastcategiry",
+        "pk": 3,
+        "fields": {
+            "name": "Машинки3",
+            "slug": "zametka2",
+            "image": "/categiry/%D0%BF%D0%B0%D1%80%D1%82%D0%BD%D0%B5%D1%80%D1%8B.jpg",
+            "main_categiry": 2
+        }
+    },
+    {
+        "model": "api.prodact",
+        "pk": 2,
+        "fields": {
+            "name": "Машинка",
+            "slug": "car",
+            "price": "15.00",
+            "category": 1
+        }
+    },
+    {
+        "model": "api.prodact",
+        "pk": 3,
+        "fields": {
+            "name": "Машинка",
+            "slug": "car",
+            "price": "15.00",
+            "category": 1
+        }
+    },
+    {
+        "model": "api.prodact",
+        "pk": 4,
+        "fields": {
+            "name": "Машинка",
+            "slug": "car",
+            "price": "15.00",
+            "category": 1
+        }
+    },
+    {
+        "model": "api.prodact",
+        "pk": 5,
+        "fields": {
+            "name": "Машинка",
+            "slug": "car",
+            "price": "15.00",
+            "category": 1
+        }
+    },
+    {
+        "model": "api.prodact",
+        "pk": 6,
+        "fields": {
+            "name": "Машинка",
+            "slug": "car",
+            "price": "15.00",
+            "category": 2
+        }
+    }
+]
